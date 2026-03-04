@@ -1,3 +1,3 @@
-Hello 
 
-Welcome to my own blackjack game. 
+
+my blackjack game. 
